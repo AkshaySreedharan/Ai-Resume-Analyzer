@@ -1,0 +1,25 @@
+# Virtual environments
+r_env/
+env/
+venv/
+ENV/
+.venv/
+
+# Django files
+db.sqlite3
+media/
+local_settings.py
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Cloned folder
+Ai-Resume-Analyzer/
